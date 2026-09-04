@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+bin/
+
+# IDE specific files/directories
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
